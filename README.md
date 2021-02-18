@@ -14,5 +14,6 @@
 No Plugins. Only plain HTML, CSS, and javascript.
 
 ### Usage
+- git clone https://github.com/Vinci-da-Gama/equal_experts_test.git, then enter into folder
 - unzip them
 - check it one by one from step 1 to step 3
